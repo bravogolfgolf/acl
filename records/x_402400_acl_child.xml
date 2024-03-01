@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-03-01 15:04:14">
+<x_402400_acl_child action="INSERT_OR_UPDATE">
+<name>CRUD w/ Child Record</name>
+<parent display_value="CRUD w/ Child Record">8c1f8faf476402105a42d9ce316d43d9</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-03-01 13:02:41</sys_created_on>
+<sys_id>5d1f47ef476402105a42d9ce316d4304</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-03-01 13:02:41</sys_updated_on>
+</x_402400_acl_child>
+<x_402400_acl_child action="INSERT_OR_UPDATE">
+<name>Read Only w/ Child Record</name>
+<parent display_value="Read Only w/ Child Record">a42e8baf476402105a42d9ce316d43a3</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-03-01 13:02:04</sys_created_on>
+<sys_id>e8eec7ef476402105a42d9ce316d434f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-03-01 13:02:04</sys_updated_on>
+</x_402400_acl_child>
+</unload>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-03-01 15:00:12">
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="x_402400_acl.user" name="x_402400_acl.user">c59bc3eb476402105a42d9ce316d43ab</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-03-01 14:59:29</sys_created_on>
+<sys_id>4ad9272747e402105a42d9ce316d433f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-03-01 14:59:29</sys_updated_on>
+<user display_value="">eab01b6347a402105a42d9ce316d4373</user>
+</sys_user_has_role>
+</unload>
