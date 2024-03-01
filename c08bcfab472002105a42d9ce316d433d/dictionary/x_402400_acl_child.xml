@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="215c072f476402105a42d9ce316d43e8" label="Child" max_length="40" name="x_402400_acl_child" type="collection">
+        <element label="Name" max_length="255" name="name" type="string"/>
+        <element label="Parent" max_length="32" name="parent" reference="x_402400_acl_parent" type="reference"/>
+        <index name="index">
+            <element name="parent"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8bcb0beb476402105a42d9ce316d43fe" label="Parent" max_length="40" name="x_402400_acl_parent" type="collection">
+        <element label="Name" max_length="255" name="name" type="string"/>
+        <element choice="3" default="r" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="CRUD" value="crud"/>
+                <element inactive_on_update="false" label="R" value="r"/>
+            </choice>
+        </element>
+    </element>
+</database>
